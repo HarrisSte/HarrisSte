@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarrisSte
+- 👋 Hi, I’m Stephanie
 - 👀 I’m interested in so many things! I love helping others, videogames, cooking, reading, traveling, experiencing new things! 
 - 🌱 I’m currently learning how to write code.
 - 📫 How to reach me: harrisste9@gmail.com
