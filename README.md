@@ -2,11 +2,13 @@
 
 # 👋 Hi, I’m Stephanie!
 ## 🌱 A little bit about me
-Over the past ten years, my heart and soul have been dedicated to shaping young minds in middle school education. It has been an incredible journey, witnessing the growth and progress of my students, and knowing I have made a difference in their lives.
+For the past decade, I've been on an incredible journey as an educator, helping shape young minds and fostering growth in the classroom. My passion for teaching has allowed me to cultivate strong leadership skills, effective communication, and a results-driven approach to achieving goals.
 
-However, life had a fascinating twist for me, leading me to explore my passion for web development. Embracing the unknown, I decided to pursue this new frontier and immerse myself in coding, design, and technology. The transition was challenging, but my decade of experience in education taught me the value of perseverance and hard work. I dove into online courses, coding boot camps, and self-guided projects, constantly seeking to improve my skills and understanding.
+Now, I'm excited to pivot towards a long-standing interest of mine: web development. With a solid foundation in education, I bring a unique perspective to problem-solving and collaboration in this dynamic field. The tenacity and adaptability I've developed in the classroom have fueled my drive to excel in the world of web development.
 
-I pride myself on my dedication, hard-work ethic, and ambition to ensure that I have met my goals. 
+I thrive on challenges and am always eager to dive into new opportunities, learn from every experience, and collaborate with fellow enthusiasts. Whether it's untangling complex code or leading a team toward a shared vision, I'm committed to taking things head-on and achieving exceptional results.
+
+I firmly believe that learning is a lifelong journey, and I'm ready to embrace it fully as I continue to expand my skills in web development. Let's connect, learn, and create together on this exciting path ahead! 🚀
 
 ## Technical Skills and Tools
 - HTML
