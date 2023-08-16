@@ -24,5 +24,5 @@ I firmly believe that learning is a lifelong journey, and I'm ready to embrace i
 ## 📫 How to reach me: 
 If you'd like to reach out to ask questions, collaborate, or discuss my experience you can reach out via one of the ways below:
 - Email: harrisste9@gmail.com
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/harrisste9/)
 
